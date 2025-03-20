@@ -14,3 +14,6 @@ Programa que simula as transações que podem ser feitas em uma conta bancária.
 - `Saída:` Opção que permite aos usuários finalizarem a utilização do programa.
 
 O vídeo abaixo exibe a execução do programa: 
+
+[programa-bancario](https://github.com/user-attachments/assets/d527f19f-1628-4e4a-b465-0e13bdc91c7a)
+
